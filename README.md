@@ -1,2 +1,2 @@
 # Repo2
-This is my first repository!
+This is my Second repository!
